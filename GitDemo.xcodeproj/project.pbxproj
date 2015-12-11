@@ -12,6 +12,7 @@
 		8BADE9AC1C1B148A000A0282 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BADE9AA1C1B148A000A0282 /* Main.storyboard */; };
 		8BADE9AE1C1B148A000A0282 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BADE9AD1C1B148A000A0282 /* Assets.xcassets */; };
 		8BADE9B11C1B148A000A0282 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BADE9AF1C1B148A000A0282 /* LaunchScreen.storyboard */; };
+		8BADE9B91C1B182C000A0282 /* new test file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BADE9B81C1B182C000A0282 /* new test file.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8BADE9AD1C1B148A000A0282 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BADE9B01C1B148A000A0282 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BADE9B21C1B148A000A0282 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BADE9B81C1B182C000A0282 /* new test file.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "new test file.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8BADE9AD1C1B148A000A0282 /* Assets.xcassets */,
 				8BADE9AF1C1B148A000A0282 /* LaunchScreen.storyboard */,
 				8BADE9B21C1B148A000A0282 /* Info.plist */,
+				8BADE9B81C1B182C000A0282 /* new test file.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BADE9B91C1B182C000A0282 /* new test file.swift in Sources */,
 				8BADE9A91C1B148A000A0282 /* ViewController.swift in Sources */,
 				8BADE9A71C1B148A000A0282 /* AppDelegate.swift in Sources */,
 			);
